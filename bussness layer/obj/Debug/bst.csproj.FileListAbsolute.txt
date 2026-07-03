@@ -1,6 +1,0 @@
-C:\IDE\bst\bin\Debug\bst.dll
-C:\IDE\bst\bin\Debug\bst.pdb
-C:\IDE\bst\obj\Debug\bst.csproj.AssemblyReference.cache
-C:\IDE\bst\obj\Debug\bst.csproj.CoreCompileInputs.cache
-C:\IDE\bst\obj\Debug\bst.dll
-C:\IDE\bst\obj\Debug\bst.pdb
