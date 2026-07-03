@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\IDE\\DVLD\\main project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{366A3877-FC61-4040-B806-711C9CAD66F0}|DVLD.csproj|c:\\ide\\dvld\\main project\\showdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{366A3877-FC61-4040-B806-711C9CAD66F0}|DVLD.csproj|solutionrelative:showdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{366A3877-FC61-4040-B806-711C9CAD66F0}|DVLD.csproj|C:\\IDE\\DVLD\\main project\\showdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{366A3877-FC61-4040-B806-711C9CAD66F0}|DVLD.csproj|solutionrelative:showdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{716AE2F6-15FD-4D22-95CA-190FDB2EA613}|..\\bussness layer\\bussinessLayer.csproj|c:\\ide\\dvld\\bussness layer\\clsperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{716AE2F6-15FD-4D22-95CA-190FDB2EA613}|..\\bussness layer\\bussinessLayer.csproj|c:\\ide\\dvld\\bussness layer\\clsapptype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{716AE2F6-15FD-4D22-95CA-190FDB2EA613}|..\\bussness layer\\bussinessLayer.csproj|c:\\ide\\dvld\\bussness layer\\clsappointement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{366A3877-FC61-4040-B806-711C9CAD66F0}|DVLD.csproj|C:\\IDE\\DVLD\\main project\\loginscreenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{366A3877-FC61-4040-B806-711C9CAD66F0}|DVLD.csproj|solutionrelative:loginscreenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{366A3877-FC61-4040-B806-711C9CAD66F0}|DVLD.csproj|C:\\IDE\\DVLD\\main project\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{366A3877-FC61-4040-B806-711C9CAD66F0}|DVLD.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\IDE\\bst\\GlobalSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShowDetails.cs",
+              "DocumentMoniker": "C:\\IDE\\DVLD\\main project\\ShowDetails.cs",
+              "RelativeDocumentMoniker": "ShowDetails.cs",
+              "ToolTip": "C:\\IDE\\DVLD\\main project\\ShowDetails.cs",
+              "RelativeToolTip": "ShowDetails.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAmwC4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T21:26:00.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShowDetails.cs [Design]",
+              "DocumentMoniker": "C:\\IDE\\DVLD\\main project\\ShowDetails.cs",
+              "RelativeDocumentMoniker": "ShowDetails.cs",
+              "ToolTip": "C:\\IDE\\DVLD\\main project\\ShowDetails.cs [Design]",
+              "RelativeToolTip": "ShowDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T21:25:56.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsPerson.cs",
+              "DocumentMoniker": "C:\\IDE\\DVLD\\bussness layer\\clsPerson.cs",
+              "RelativeDocumentMoniker": "..\\bussness layer\\clsPerson.cs",
+              "ToolTip": "C:\\IDE\\DVLD\\bussness layer\\clsPerson.cs",
+              "RelativeToolTip": "..\\bussness layer\\clsPerson.cs",
+              "ViewState": "AgIAALUAAAAAAAAAAAAmwLsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T21:22:56.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsAppType.cs",
+              "DocumentMoniker": "C:\\IDE\\DVLD\\bussness layer\\clsAppType.cs",
+              "RelativeDocumentMoniker": "..\\bussness layer\\clsAppType.cs",
+              "ToolTip": "C:\\IDE\\DVLD\\bussness layer\\clsAppType.cs",
+              "RelativeToolTip": "..\\bussness layer\\clsAppType.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T21:19:40.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsAppointement.cs",
+              "DocumentMoniker": "C:\\IDE\\DVLD\\bussness layer\\clsAppointement.cs",
+              "RelativeDocumentMoniker": "..\\bussness layer\\clsAppointement.cs",
+              "ToolTip": "C:\\IDE\\DVLD\\bussness layer\\clsAppointement.cs",
+              "RelativeToolTip": "..\\bussness layer\\clsAppointement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T21:19:38.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\IDE\\DVLD\\main project\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\IDE\\DVLD\\main project\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-06-14T11:48:33.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GlobalSettings.cs",
+              "DocumentMoniker": "C:\\IDE\\bst\\GlobalSettings.cs",
+              "RelativeDocumentMoniker": "..\\..\\bst\\GlobalSettings.cs",
+              "ToolTip": "C:\\IDE\\bst\\GlobalSettings.cs",
+              "RelativeToolTip": "..\\..\\bst\\GlobalSettings.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T11:29:45.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginScreenForm.cs",
+              "DocumentMoniker": "C:\\IDE\\DVLD\\main project\\LoginScreenForm.cs",
+              "RelativeDocumentMoniker": "LoginScreenForm.cs",
+              "ToolTip": "C:\\IDE\\DVLD\\main project\\LoginScreenForm.cs",
+              "RelativeToolTip": "LoginScreenForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T15:06:29.392Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+C:\IDE\bst\bin\Debug\bst.dll
+C:\IDE\bst\bin\Debug\bst.pdb
+C:\IDE\bst\bin\Debug\DataAccessLayer.dll
+C:\IDE\bst\bin\Debug\DataAccessLayer.pdb
+C:\IDE\bst\obj\Debug\bussinessLayer.csproj.AssemblyReference.cache
+C:\IDE\bst\obj\Debug\bussinessLayer.csproj.CoreCompileInputs.cache
+C:\IDE\bst\obj\Debug\bussines.9246A86E.Up2Date
+C:\IDE\bst\obj\Debug\bst.dll
+C:\IDE\bst\obj\Debug\bst.pdb
